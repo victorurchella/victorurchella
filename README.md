@@ -141,7 +141,7 @@
     <a href="https://br.linkedin.com/in/victor-urchella/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/linkedin-208-916919.png" alt="linkedin" height="40"
             width="40" /></a>
-    <a href="https://www.instagram.com/eo_huugo/" target="blank"><img align="center"
+    <a href="https://www.instagram.com/caraihugo/" target="blank"><img align="center"
             src="https://cdn.iconscout.com/icon/free/png-64/instagram-216-721958.png" alt="instagram" height="40"
             width="40" /></a>
 </p>

@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, me chame de Victor</h1>
-<h3 align="center">Sou um desenvolvedor que sempre busca aprender coisas novas!</h3>
+<h3 align="center">Sou um desenvolvedor que sempre esta em busca de conhecimento!</h3>
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=victorurchella&label=Profile%20views&color=0e75b6&style=flat" /> </p> -->
 
 <div align=right>

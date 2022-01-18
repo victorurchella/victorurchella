@@ -29,10 +29,10 @@
             alt="android studio" width="40" height="40" /> </a> -->
 <!--     <a href="https://angular.io/" target="_blank" title ="Angular"> <img
             src="https://brandslogos.com/wp-content/uploads/thumbs/angular-logo-vector.svg"
-            alt="angular" width="40" height="40" /> </a> -->
+            alt="angular" width="40" height="40" /> </a>
     <a href="https://azure.microsoft.com/en-in/" target="_blank" title ="Azure"> <img
             src="https://pngimage.net/wp-content/uploads/2018/05/azure-logo-png-8.png"
-            alt="azure" width="50" height="35" /> </a>
+            alt="azure" width="50" height="35" /> </a>  -->
 <!--     <a href="https://aws.amazon.com/" target="_blank" title ="AWS"> <img
             src="https://mk0futurumreseabr7pm.kinstacdn.com/wp-content/uploads/2020/01/aws-logo.png"
             alt="aws" width="40" height="40" /> </a> -->
@@ -65,12 +65,12 @@
     <a href="https://www.w3.org/html/" target="_blank" title ="html"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="40" height="40" /> </a>
-<!--     <a href="https://ionicframework.com/" target="_blank" title ="Ionic"> <img
+<!--<a href="https://ionicframework.com/" target="_blank" title ="Ionic"> <img
             src="https://cdn-images-1.medium.com/max/1000/1*ZU1eWct801yP-QpUJOaI6Q.png"
-            alt="ionic" width="40" height="40" /> </a>
+            alt="ionic" width="40" height="40" /> </a> -->
     <a href="https://www.java.com/en/" target="_blank" title ="java"> <img
             src="https://www.oracle.com/a/ocom/img/obic-java-cup.svg"
-            alt="java" width="40" height="40" /> </a> -->
+            alt="java" width="40" height="40" /> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title ="JavaScript"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a>
@@ -83,12 +83,12 @@
     <a href="https://nodejs.org" target="_blank" title ="Node.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40" /> </a>
-<!--     <a href="https://postman.com" target="_blank" title ="Postman"> <img
+    <a href="https://postman.com" target="_blank" title ="Postman"> <img
             src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"
             height="40" /> </a>
     <a href="https://www.python.org" target="_blank" title ="Python"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-            alt="python" width="40" height="40" /> </a> -->
+            alt="python" width="40" height="40" /> </a>
     <a href="https://reactjs.org/" target="_blank" title ="React.js"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="40" height="40" /> </a>
